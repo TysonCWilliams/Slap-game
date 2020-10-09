@@ -1,1 +1,15 @@
 /*Only use this file if you want to override bootstrap or create your own style*/
+
+* {
+  //outline: 1px solid red;
+}
+
+.ehondaImg {
+  height: 25%;
+  background: url('img/ehonda.jpg') no-repeat center;
+}
+
+.scorpionImg {
+  height: 25%;
+  background: url('img/scorpion.png') no-repeat center;
+}

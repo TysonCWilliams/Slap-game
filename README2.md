@@ -112,7 +112,7 @@ var ryu = {
 	##HINTS
 	1. We need to create a variable to hold the running modifier total
 	2. This variable should be outside of the loop
-	3. Inside the loop, increase the running total by the 'current items' modifier value
+	3. Inside the loop, increase the running total by the uh'current items' modifier value
 	4. Arrays need to be accessed by index. \[i]
 	
 3. Have the function return the total.

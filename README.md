@@ -71,7 +71,7 @@ In this first checkpoint students will demonstrate their understanding of workin
   -Set the variable hits with a value of 0, every time the target is hit by a Slap, Punch, or Kick
     this variable should be increased by 1.
 3. Add a placeholder for target name, and hits inside the header next to health.
-4. Wire everything up like you did for "Slap".
+4. Wire everything up like you did for "Slap".k
 
 ### Step 7 - Testing Time
 1. You should now have a functioning application. Test the following
